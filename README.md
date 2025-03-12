@@ -91,3 +91,6 @@ REACT_APP_BCASH_API=https://ecash.badger.cash:8332
 The following features are under active development:
 
 -   Cashtab browser extension
+
+
+dev change
